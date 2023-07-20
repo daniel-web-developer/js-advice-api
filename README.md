@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice generator app solution
 
-TThis is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects. For the solution using Next.js, clicke [here](https://github.com/daniel-web-developer/nextjs-advice-api).
 
 
 ## Table of contents
@@ -27,11 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://github.com/daniel-web-developer/js-advice-api/assets/107224353/0f9a1a18-f013-4050-bc83-cef190741839)
 
 
 ### Links
 
-- [Live Site URL]()
+- [Live Site URL](https://daniel-web-developer.github.io/js-advice-api/)
 
 ## My process
 
