@@ -29,7 +29,6 @@ Users should be able to:
 
 ![image](https://github.com/daniel-web-developer/js-advice-api/assets/107224353/0f9a1a18-f013-4050-bc83-cef190741839)
 
-
 ### Links
 
 - [Live Site URL](https://daniel-web-developer.github.io/js-advice-api/)
